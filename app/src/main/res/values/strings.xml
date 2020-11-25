@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Логирование жизненного цикла активити</string>
+    <string name="onCreateMethod">onCreate</string>
+    <string name="onStartMethod">onStart</string>
+    <string name="onResumeMethod">onResume</string>
+    <string name="onPauseMethod">onPause</string>
+    <string name="onStopMethod">onStop</string>
+    <string name="onDestroyMethod">onDestroy</string>
+    <string name="onRestartMethod">onRestart</string>
+    <string name="onPostCreateMethod">onPostCreate</string>
+    <string name="onPostResume">onPostResume</string>
+</resources>
