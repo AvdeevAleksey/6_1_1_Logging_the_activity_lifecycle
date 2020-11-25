@@ -8,5 +8,11 @@
     <string name="onDestroyMethod">onDestroy</string>
     <string name="onRestartMethod">onRestart</string>
     <string name="onPostCreateMethod">onPostCreate</string>
-    <string name="onPostResume">onPostResume</string>
+    <string name="onPostResumeMethod">onPostResume</string>
+    <string name="onKeyDownMethod">onKeyDown</string>
+    <string name="onKeyLongPressMethod">onKeyLongPress</string>
+    <string name="onBackPressedMethod">onBackPressed</string>
+    <string name="onSaveInstanceStateMethod">onSaveInstanceState</string>
+    <string name="onRestoreInstanceStateMethod">onRestoreInstanceState</string>
+    <string name="newActivity">New Activity</string>
 </resources>
